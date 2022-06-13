@@ -1,5 +1,5 @@
 - 👀 digitalbando.com
-- 🌱 html css js php mysql react
+- 🌱 full stack dev & data engineer
 - 📫 info@digitalbando.com
 
 <!---
