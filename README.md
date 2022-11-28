@@ -1,4 +1,4 @@
-#  👾👋
+# 💚 🌱 🌻 👋
 - 👀 www.digitalbando.com ✨ www.mcg-holding.com
 - 🌱 full stack dev & data engineer
 - 📫 info@digitalbando.com
